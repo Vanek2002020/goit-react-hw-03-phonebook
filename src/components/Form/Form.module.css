@@ -1,0 +1,16 @@
+.Form {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  align-items: left;
+}
+
+.Form__item {
+  margin-bottom: 15px;
+}
+
+.Form__input {
+  margin-bottom: 35px;
+  width: 200px;
+  padding: 10px 15px;
+}
